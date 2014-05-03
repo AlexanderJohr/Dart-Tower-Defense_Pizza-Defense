@@ -89,6 +89,6 @@ class GameMode {
     Element clickedButton = event.currentTarget;
     PizzaType clickedPizzaType = _buttonPizzaTypeMap[clickedButton];
     aktPizzaType = clickedPizzaType;
-    document.body.onClick
+
   }
 }
